@@ -1,4 +1,3 @@
-# ai-automation
 # AI Automation Workflow (n8n)
 
 ## Overview
